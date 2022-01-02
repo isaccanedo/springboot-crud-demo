@@ -2,8 +2,8 @@
 
 A demonstração do Spring Boot CRUD está demonstrando como implementar operações CRUD simples com uma entidade `Product`.
 
-## What's inside 
-This project is based on the [Spring Boot](http://projects.spring.io/spring-boot/) project and uses these packages :
+## O que tem dentro 
+Este projeto é baseado no [Spring Boot](http://projects.spring.io/spring-boot/) projeto e usa esses pacotes :
 - Maven
 - Spring Core
 - Spring Data (Hibernate & MySQL)
@@ -12,12 +12,12 @@ This project is based on the [Spring Boot](http://projects.spring.io/spring-boot
 
 ![demo](https://cl.ly/sEGH/Screen%20Recording%202018-06-11%20at%2010.34%20AM.gif)
 
-## Installation 
-The project is created with Maven, so you just need to import it to your IDE and build the project to resolve the dependencies
+## Instalação
+O projeto é criado com Maven, então você só precisa importá-lo para o seu IDE e construir o projeto para resolver as dependências
 
-## Database configuration 
-Create a MySQL database with the name `springbootdb` and add the credentials to `/resources/application.properties`.  
-The default ones are :
+## Configuração de banco de dados
+Crie um banco de dados MySQL com o nome `springbootdb` e adicione as credenciais a`/resources/application.properties`.
+Os padrões são:
 
 ```
 spring.datasource.url=jdbc:mysql://localhost:3306/springbootdb
