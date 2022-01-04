@@ -27,11 +27,11 @@ spring.jpa.hibernate.ddl-auto=update
 ```
 
 ## Uso 
-Run the project through the IDE and head out to [http://localhost:8080](http://localhost:8080)
+Execute o projeto por meio da IDE e vá para [http://localhost:8080](http://localhost:8080)
 
-or 
+ou
 
-run this command in the command line:
+execute este comando na linha de comando:
 ```
 mvn spring-boot:run
 ```
