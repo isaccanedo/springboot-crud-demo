@@ -10,7 +10,7 @@ Este projeto é baseado no [Spring Boot](http://projects.spring.io/spring-boot/)
 - Spring MVC (Tomcat)
 - [Thymleaf](https://thymeleaf.org)
 
-![demo](https://cl.ly/sEGH/Screen%20Recording%202018-06-11%20at%2010.34%20AM.gif)
+<src img="spring.gif">
 
 ## Instalação
 O projeto é criado com Maven, então você só precisa importá-lo para o seu IDE e construir o projeto para resolver as dependências
