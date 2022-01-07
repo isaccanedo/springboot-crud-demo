@@ -1,6 +1,6 @@
 # springboot-crud-demo
 
-A demonstração do Spring Boot CRUD está demonstrando como implementar operações CRUD simples com uma entidade `Product`.
+Demonstração do Spring Boot CRUD e como implementar as operações CRUD com uma entidade `Product`.
 
 ## O que tem dentro 
 Este projeto é baseado no [Spring Boot](http://projects.spring.io/spring-boot/) projeto e usa esses pacotes :
